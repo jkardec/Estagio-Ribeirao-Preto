@@ -1,0 +1,14 @@
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\bin\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.exe
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\bin\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.deps.json
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\bin\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.runtimeconfig.json
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\bin\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.dll
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\bin\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.pdb
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\obj\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\obj\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.AssemblyInfoInputs.cache
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\obj\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.AssemblyInfo.cs
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\obj\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\obj\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.dll
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\obj\Debug\net8.0\refint\Ribeirão Preto 2024 Exercicio 2.dll
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\obj\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.pdb
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\obj\Debug\net8.0\Ribeirão Preto 2024 Exercicio 2.genruntimeconfig.cache
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Ribeirão Preto 2024 Exercicio 2\Ribeirão Preto 2024 Exercicio 2\obj\Debug\net8.0\ref\Ribeirão Preto 2024 Exercicio 2.dll

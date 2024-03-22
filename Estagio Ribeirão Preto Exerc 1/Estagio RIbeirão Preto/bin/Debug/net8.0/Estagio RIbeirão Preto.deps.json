@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Estagio RIbeirão Preto/1.0.0": {
+        "runtime": {
+          "Estagio RIbeirão Preto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estagio RIbeirão Preto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

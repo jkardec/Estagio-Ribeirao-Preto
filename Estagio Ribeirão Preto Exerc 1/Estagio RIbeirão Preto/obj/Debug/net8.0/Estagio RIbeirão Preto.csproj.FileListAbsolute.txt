@@ -1,0 +1,14 @@
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\bin\Debug\net8.0\Estagio RIbeirão Preto.exe
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\bin\Debug\net8.0\Estagio RIbeirão Preto.deps.json
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\bin\Debug\net8.0\Estagio RIbeirão Preto.runtimeconfig.json
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\bin\Debug\net8.0\Estagio RIbeirão Preto.dll
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\bin\Debug\net8.0\Estagio RIbeirão Preto.pdb
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\obj\Debug\net8.0\Estagio RIbeirão Preto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\obj\Debug\net8.0\Estagio RIbeirão Preto.AssemblyInfoInputs.cache
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\obj\Debug\net8.0\Estagio RIbeirão Preto.AssemblyInfo.cs
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\obj\Debug\net8.0\Estagio RIbeirão Preto.csproj.CoreCompileInputs.cache
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\obj\Debug\net8.0\Estagio RIbeirão Preto.dll
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\obj\Debug\net8.0\refint\Estagio RIbeirão Preto.dll
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\obj\Debug\net8.0\Estagio RIbeirão Preto.pdb
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\obj\Debug\net8.0\Estagio RIbeirão Preto.genruntimeconfig.cache
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio RIbeirão Preto\Estagio RIbeirão Preto\obj\Debug\net8.0\ref\Estagio RIbeirão Preto.dll

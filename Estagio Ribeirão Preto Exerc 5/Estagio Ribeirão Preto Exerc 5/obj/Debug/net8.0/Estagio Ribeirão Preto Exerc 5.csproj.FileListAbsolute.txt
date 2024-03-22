@@ -1,0 +1,14 @@
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\bin\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.exe
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\bin\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.deps.json
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\bin\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.runtimeconfig.json
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\bin\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.dll
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\bin\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.pdb
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\obj\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\obj\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.AssemblyInfoInputs.cache
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\obj\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.AssemblyInfo.cs
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\obj\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.csproj.CoreCompileInputs.cache
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\obj\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.dll
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\obj\Debug\net8.0\refint\Estagio Ribeirão Preto Exerc 5.dll
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\obj\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.pdb
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\obj\Debug\net8.0\Estagio Ribeirão Preto Exerc 5.genruntimeconfig.cache
+C:\Users\fl bro\Documents\Curso C# Udemy\Nova pasta\Estagio Ribeirão Preto Exerc 5\Estagio Ribeirão Preto Exerc 5\obj\Debug\net8.0\ref\Estagio Ribeirão Preto Exerc 5.dll
